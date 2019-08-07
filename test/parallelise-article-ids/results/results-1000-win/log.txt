@@ -1,0 +1,5 @@
+Shouldn't hard code the length of article id.
+
+Length not always the same.
+
+Fucked up all links other than ettoday, the only one tested.
